@@ -8,7 +8,7 @@ VirtualMart: An immersive Mixed Reality shopping platform enabling users to visu
 * UI Panel System
 * Dynamic UI for Customization
 ### A Comprehensive User Guide
-![VirtualMart Platform](https://example.com/my-image.jpg)
+![VirtualMart Platform](https://p.ipic.vip/xhjaeq.png)
 ![Product Customization](https://p.ipic.vip/j2q9a5.png)
 ### Software Requirements
 ##### Unity (2021.3.45f1) project 
@@ -29,7 +29,7 @@ https://mixedrealitynow.com/building-mr-apps-using-physical-surfaces-has-never-b
 https://docs.unity3d.com/2020.3/Documentation/Manual/JSONSerialization.html?utm_source=chatgpt.com
 ### Resources Links
 #### Models Downloaded Source
-Various models downloaded from sketchfab [links]
+Various models downloaded from sketchfab [https://sketchfab.com/]
 #### Unity MRUK Basic Configuration
 * Learn how to get scene model information to display element, add collision, get position, normal and label from anchor and place object
 https://www.youtube.com/watch?v=bSYoRoIVvvo&t=251s
